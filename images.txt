@@ -6,3 +6,5 @@ vinlic/kimi-free-api:latest
 vinlic/glm-free-api:latest
 vinlic/qwen-free-api:latest
 docker.io/searxng/searxng:latest
+docker.io/library/caddy:2-alpine
+docker.io/valkey/valkey:7-alpine
