@@ -70,3 +70,4 @@ services:
         max-size: '1m'
         max-file: '1'
     restart: always
+
