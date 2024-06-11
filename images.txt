@@ -1,0 +1,8 @@
+docker.io/nashsu/free_ask_internet:latest
+docker.io/nashsu/free_ask_internet_ui:latest
+yidadaa/chatgpt-next-web
+missuo/freegpt35:latest
+vinlic/kimi-free-api:latest
+vinlic/glm-free-api:latest
+vinlic/qwen-free-api:latest
+docker.io/searxng/searxng:latest
