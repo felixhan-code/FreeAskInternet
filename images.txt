@@ -8,3 +8,5 @@ vinlic/qwen-free-api:latest
 docker.io/searxng/searxng:latest
 docker.io/library/caddy:2-alpine
 docker.io/valkey/valkey:7-alpine
+docker.io/thespaghettidetective/ml_api_base:1.4
+docker.io/thespaghettidetective/web:base-1.16
